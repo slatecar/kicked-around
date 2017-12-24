@@ -1,0 +1,8 @@
+---
+title: Kicked Around
+author: Carmine Slate
+language: en-US
+rights: CC BY-NC-SA 4.0
+version: 1.0.1
+...
+
