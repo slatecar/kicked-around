@@ -1,7 +1,7 @@
 About
 =====
 
-Kicked Around<br /> Version 1.0.1<br /> By Carmine Slate<br /> Published
+Kicked Around<br /> Version 1.0.2 - 2019-01-06<br /> By Carmine Slate<br /> Version 1.0.1 was Published
 on 2017-12-24<br /> Published by BookRix<br /> For more information
 about the book, visit: <https://kicked-around.blogspot.com><br />
 <br /><br /> <strong>Cover</strong><br /> Cover Image by Carmine

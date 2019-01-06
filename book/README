@@ -1,0 +1,73 @@
+Kicked Around
+By Carmine Slate
+
+
+Description:
+This project outlines how to build the book into various ebook formats.
+For a direct link to download the book, visit: https://kicked-around.blogspot.com
+
+
+Setup:
+1.) Download kindlegen: https://www.amazon.com/gp/feature.html?docId=1000765211
+2.) Decompress and untar to /kindlegen/ directory
+3.) Install the necessary Ubuntu packages: apt-get install make pandoc espeak mbrola ffmpeg calibre
+
+
+Instructions for use:
+1.) Create the book in the Word processor of choice.  Export to docx format.
+2.) Convert to markup: pandoc --from=docx --to=markdown --output=file.md file.docx
+3.) Copy markup to individual [chapter].md files. Markup will be cleaned up during build process
+4.) Build the book: make clean; make book
+5.) Book files located in /build/
+NOTE: If you do a "make all", this will build the audiobook which will take much time
+
+
+Instructions for updating:
+1.) Update each chapter one at a time using the editor of your choice
+2.) Re-Build the book: make clean; make book
+3.) Book files located in /build/
+NOTE: If you do a "make all", this will build the audiobook which will take much time
+
+
+Tips and Advice:
+1.) Write your ideas in whatever manner you feel the most comfortable
+2.) Pull them together in a combined document using the word processor of your choice
+ - Google Docs are good because they are accessbile from anywhere that your Google Account is accessible and they keep revision history for all updates
+ - Divide up your docs by chapter, because the larger the document is, the longer it takes to load up when you open it on a new device
+3.) Use a Grammar tool other than the one included with a traditional word processor
+ - Grammarly is good for this.  It catches things that LibreOffice and Google Docs does not
+4.) There are plenty of 100% free royalty-free image sites on the internet to download images for your cover
+ - If you don't know how to use a tool like Gimp for image editing, consider using a service like Fiverr to find an artist to make your cover
+5.) Re-read, revise, re-read, revise, revise again, revise yet again, re-read, revise...
+ - Your first draft is going to be bad.  Accept it and keep working.  Keep revising it until it feels great.  Then, re-read it and revise it again.
+ - Tell yourself that after X number of revisions, you will publish.  Make X large (like 10 or 15, but realize it could be 20 or more before you stop rewriting scenes or dialog).
+ - No matter how many times you revise, if you re-read the book after you publish you will probably wish you would have changed something.  Hindsight is always 20/20.
+6.) Let someone else give you feedback
+ - A friend or family member is good, but try to find someone that is unbiased.
+ - Reddit and various other sites have sections where you can post portions of your book.  People will read it and respond with honest feedback.
+7.) Let the process flow naturally
+ - It's normal to want to be "done", but don't rush it.  When the book "feels like it's done", then it's done.  Before that, it's not, so don't push it out.
+ - It may take 15-20 full revisions before you feel like it's done.  Keep at it, don't give up.
+8.) Slow down when revising
+ - You may have re-read your book 20 times, but when revising, try to pretend it's the first time, for each revision.  Concentrate on anything that pulls in "prior knowledge of the text."
+ - You may find out by re-reading that you referenced a character by name and he should be unknown, because you don't introduce him for 2 more chapters.  That can be confusing to the reader.
+ - You may find that when your near the end of a revision that you start skimming through the chapters.  Don't.  Treat each chapter individually and give it the time it deserves.
+ - You may find that you've provided "too much context" to something that needs no explanation.  Cut out the fluff.  It may feel like a "waste of words and time", but it's part of the process.
+
+
+Licensing:
+1.) Kicked Around is released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license (CC BY-CS-SA 4.0)
+ - See copyright.md for more information
+2.) The Makefile is based on the pandoc-ebook-template code availabe on GITHub: https://github.com/evangoer/pandoc-ebook-template
+ - This code is released under the MIT license. See the MIT_LICENSE file for details
+
+
+Additional Help:
+https://github.com/evangoer/pandoc-ebook-template
+https://puppet.com/blog/how-we-automated-our-ebook-builds-pandoc-and-kindlegen
+http://dublincore.org/documents/dces/
+http://idpf.org/epub/30/spec/epub30-publications.html#sec-opf-dctitle
+https://pandoc.org/MANUAL.html
+https://superuser.com/questions/601469/getting-chapters-to-start-on-a-new-page-in-a-pandoc-generated-pdf
+https://manual.calibre-ebook.com/generated/en/ebook-convert.html
+
