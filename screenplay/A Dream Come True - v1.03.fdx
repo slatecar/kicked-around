@@ -89,10 +89,10 @@
       <Text>FADE IN:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>AELITA: QUEEN OF MARS</Text>
+      <Text>INT. ERIK’S BEDROOM - NIGHT - 1</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Modified scene from Aelita: Queen of Mars (cr)</Text>
+      <Text>Closeup of a modified scene from Aelita: Queen of Mars (cr)</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music: NINE INCH NAILS - GHOSTS I - TRACK 06]]</Text>
@@ -122,12 +122,11 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Do you want to know the truth?</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>JUMP CUT:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - NIGHT - CLOSE UP OF TV PLAYING AELITA</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Jump Cut: Backout to reveal the previous images were from a movie being watched on a TV]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>The TV continues to play the modified scenes from Aelita: Queen of Mars.</Text>
@@ -143,45 +142,22 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>No matter the consequences.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>MATCH CUT:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - NIGHT</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Camera pans out (backward) to show Erik’s bedroom. Camera slowly backs out and pivots to the right until Erik is in the center of the frame. Slowly end pan out and change to a pan in on Erik. Continue to pan in until close up shot of Erik’s face.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>MATCH CUT:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - NIGHT - CLOSE UP OF ERIK’S FACE</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Match Cut: Camera pans out (backward) to show Erik’s bedroom. Camera slowly backs out and pivots to the right until Erik is in the center of the frame. Slowly end pan out and change to a pan in on Erik. Continue to pan in until close up shot of Erik’s face.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik’s eyes are getting heavy. Erik is falling asleep.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - NIGHT - CLOSE UP OF TV PLAYING AELITA</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Close up of TV playing another modified scene from Aelita:</Text>
+      <Text>Erik is on a couch in the bedroom. Erik is facing TV playing Aelita, but Erik is falling asleep.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>A cell phone notification sounds.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - NIGHT - CLOSE UP OF ERIK</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of Erik laying on couch. Erik jolts awake to the sound of the phone notification. Erik grabs at his phone.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Medium shot of Erik laying on couch. Erik jolts awake to the sound of the phone notification. Erik grabs at his phone.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
@@ -191,15 +167,14 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>What the fuck?</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - NIGHT - ERIK’S PHONE</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Over the shoulder shot of Erik viewing his phone.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Over the shoulder shot of Erik viewing his phone. The phone screen flashes on. “Hello World!” is displayed on the phone. The screen flashes again. An email is displayed: Subject: Final Semester Grades Posted Body: Click here to view grades.</Text>
+      <Text>Erik&apos;s phone screen flashes on. “Hello World!” is displayed on the phone. The screen flashes again. An email is displayed: Subject: Final Semester Grades Posted Body: Click here to view grades</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik taps link with his thumb. A web browser page opens. Web page title: “Erik McMurphy - Final Grades” Math: A-Science: A-Spanish: B-History: B Gym: B Economics: B</Text>
@@ -227,12 +202,11 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik stands up, walks over to his desk and sits down at desk chair. Over the shoulder camera follows Erik with his movements (POV). Erik grabs the TV remote from his desk and looks over at the TV.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - NIGHT - CLOSE UP OF TV PLAYING AELITA</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Closeup of of TV playing Aelita]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Modified scene from Aelita: Queen of Mars (cr)</Text>
@@ -248,15 +222,14 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>TV turns off.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - NIGHT</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut to over the shoulder shot with Erik’s laptop in view.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Cut to over the shoulder shot with Erik’s laptop in view. Laptop shows screen: “TEAM ONYX WINS ANNUAL TOURNAMENT”. Sub-title: Team celebrates 2600th career win. First line of article: THERE IS NO HOPE ON PLANET EARTH TO BEAT THIS TEAM! There is a picture of 4 people celebrating. Confetti and lights are in the photo.</Text>
+      <Text>Laptop shows screen: “TEAM ONYX WINS ANNUAL TOURNAMENT”. Sub-title: Team celebrates 2600th career win. First line of article: THERE IS NO HOPE ON PLANET EARTH TO BEAT THIS TEAM! There is a picture of 4 people celebrating. Confetti and lights are in the photo.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>A new browser tab opens on the laptop. Email website opens. Mouse cursor clicks on “Final Semester Grades Posted”. Mouse cursor clicks “Click here to view grades.” Erik’s grade page opens. Mouse clicks on the URL box and selects the URL.</Text>
@@ -296,15 +269,14 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Mouse returns to grades tab. Mouse clicks URL box and removes the last 32 characters. “385aad39a2d08ecd2268187a5b23a6e6” is pasted. “Go” is clicked. Website flashes and returns: “Jeffery Mertons - Final Grades” Math: C-Science: C-Spanish: C+ History: C Gym: B Economics: C+</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - NIGHT - CLOSE UP OF ERIK’S FACE</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Low angle camera shot close up on Erik’s face.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Low angle camera shot close up on Erik’s face. Erik’s expression goes from serious and unemotional to wide smile.</Text>
+      <Text>Erik’s expression goes from serious and unemotional to wide smile.</Text>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>DISSOLVE TO:</Text>
@@ -339,16 +311,7 @@
       <Text>If I create a script to request all of the student IDs from 1 to 1 million, that should give me all the grades for every student at the school, maybe every student that ever attended. Maybe. I guess we’ll just have to wait and see.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>END ERIK TYPING MONTAGE</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - NIGHT - ERIK AT DESK</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Cut to a medium shot of Erik as the viewer hears the sound of one last key pressed on the keyboard (Erik finishes typing).</Text>
+      <Text>Montage ends as one last key pressed on the keyboard, signifying that Erik has finished typing.</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music ends suddenly.]]</Text>
@@ -356,54 +319,59 @@
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik is staring at the screen with the command ready to execute.</Text>
+      <Text>END ERIK TYPING MONTAGE</Text>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - NIGHT - ERIK AT DESK</Text>
+      <Text>INT. ERIK’S BEDROOM - NIGHT - 2</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut to a medium shot of Erik as the viewer hears the sound of one last key pressed on the keyboard (Erik finishes typing).]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Cut to a high angle shot behind the laptop, showing Erik’s face.</Text>
+      <Text>Erik is staring at the screen with the command ready to execute.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut to a high angle shot behind the laptop, showing Erik’s face.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>(internal dialogue voiceover) Should I? Fuck it, why not.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - NIGHT - ERIK AT DESK</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Close up of the keyboard. Erik presses “enter” key on the keyboard.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - NIGHT - ERIK AT DESK</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Close up of the keyboard.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of laptop screen. Script is running. Screen shows: “Begin sequence ...&quot;</Text>
+      <Text>Erik presses “enter” key on the keyboard.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Close up of laptop screen.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Script is running. Screen shows: “Begin sequence ...&quot;</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music: NINE INCH NAILS - GHOSTS III - TRACK 23]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[High angle shot behind laptop.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - NIGHT - ERIK AT DESK</Text>
-    </Paragraph>
     <Paragraph Type='Action'>
-      <Text>High angle shot behind laptop. Erik is watching the screen. Erik picks up his phone from the desk and taps the glass with his thumb.</Text>
+      <Text>Erik is watching the screen. Erik picks up his phone from the desk and taps the glass with his thumb.</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[The music stops suddenly as he taps.]]</Text>
@@ -418,15 +386,14 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>This is going to take awhile. Oh fuck am I tired. I’m just going to lay down for abit.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - NIGHT - ERIK’S BED</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of the bed.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of the bed. Erik walks to the bed and lays down. He pulls the covers on him and falls asleep. Fade to black.</Text>
+      <Text>Erik walks to the bed and lays down. He pulls the covers on him and falls asleep. Fade to black.</Text>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>FADE TO:</Text>
@@ -456,38 +423,41 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik stops in front of the Dominatrix. Dominatrix kisses Erik passionately. Erik closes his eyes.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. DARK WAREHOUSE - CLOSE UP ERIK’S FACE</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Close up of Erik’s face.</Text>
       <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of Erik’s face.]]</Text>
+        </Paragraph>
         <Paragraph>
           <Text>[[Music line: I’m safe in here, irrelevant.]]</Text>
         </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik reopens his eyes. Erik looks up. The camera follows his eyes. Erik’s hands are chained to long shackles that dangle from the ceiling.</Text>
+      <Text>Erik reopens his eyes. Erik looks up.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[The camera follows his eyes.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Camera pans backward and upward, stopping with a high angle shot.</Text>
+      <Text>Erik sees that his hands are chained to long shackles that dangle from the ceiling.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Camera pans backward and upward, stopping with a high angle shot.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik is completely naked. The Dominatrix walks behind Erik and kicks at the back of Erik’s right knee.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. DARK WAREHOUSE</Text>
+      <Text>Erik looks down. He see that he is completely naked. The Dominatrix walks behind Erik and kicks at the back of Erik’s right knee.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: High angle shot of Erik’s legs.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>High angle shot of Erik’s legs. Erik falls to his knees.</Text>
+      <Text>Erik falls to his knees.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Dominatrix stands with a wide legged stance behind Erik. Camera pans upward.</Text>
@@ -497,18 +467,19 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Dominatrix takes flogger and smacks it hard across Erik’s chest.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>INT. DARK WAREHOUSE</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Low angle close up of Erik’s face as Erik’s head snaps forward. Erik is gasping for breath.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Low angle close up of Erik’s face as Erik’s head snaps forward.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Camera pans backward, slowly. The Dominatrix can be seen blurred in the background.</Text>
+      <Text>Erik is gasping for breath.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Camera pans backward, slowly. The Dominatrix can be seen blurred in the background.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>The Dominatrix begins to flog Erik mercilessly on his back. Erik cries out in pain (inaudible).</Text>
@@ -516,20 +487,20 @@
         <Paragraph>
           <Text>[[The music refrain is playing: My voice just echoes off these walls.]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[At the end of the refrain, the Dominatrix stops beating Erik.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>At the end of the refrain, the Dominatrix stops beating Erik. Erik hangs from the shackles exhausted. The Dominatrix walks back around to the front of Erik. The Dominatrix’ boot is seen in front of Erik.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. DARK WAREHOUSE</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of Erik and Dominatrix.</Text>
+      <Text>Erik hangs from the shackles exhausted. The Dominatrix walks back around to the front of Erik.</Text>
       <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[The Dominatrix’ boot is seen in front of Erik.]]</Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik and Dominatrix.]]</Text>
+        </Paragraph>
         <Paragraph>
           <Text>[[Music begins the second verse: You feel me breathe]]</Text>
         </Paragraph>
@@ -573,25 +544,21 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Dominatrix walks around to the back of Erik. Dominatrix flogs Erik mercilessly on Erik’s back. Erik continues to cry out in pain.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>On the second time the lyric: And I just slowly fade away. Dominatrix walks back around to the front of Erik</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>DISSOLVE TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. DARK WAREHOUSE</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Fast cuts of the following: Of Dominatrix mocking Erik to his face Of Dominatrix flogging Erik Of Dominatrix spitting on Erik Of Dominatrix smacking Erik Of Dominatrix grinding her vagina all over Erik’s face Of Dominatrix grinding her ass all over Erik’s face Of Erik licking the Dominatrix’s boot Of Dominatrix squirting on Erik’s face Of Erik licking the Dominatrix’s ejaculate from the floor</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. DARK WAREHOUSE</Text>
       <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[On the second time the lyric: And I just slowly fade away. Dominatrix walks back around to the front of Erik]]</Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>[[Dissolve To: Fast cuts of the next set of actions.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>The following actions happen quickly: Dominatrix mocking Erik to his face Of Dominatrix flogging Erik Of Dominatrix spitting on Erik Of Dominatrix smacking Erik Of Dominatrix grinding her vagina all over Erik’s face Of Dominatrix grinding her ass all over Erik’s face Of Erik licking the Dominatrix’s boot Of Dominatrix squirting on Erik’s face Of Erik licking the Dominatrix’s ejaculate from the floor</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Closeup of Erik]]</Text>
+        </Paragraph>
         <Paragraph>
           <Text>[[Music gets to conclusion point: Heavy guitar ends Music lyric: You will never ever get to me in here]]</Text>
         </Paragraph>
@@ -612,10 +579,10 @@
         <Paragraph>
           <Text>[[Music stops.]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Cut to black.]]</Text>
+        </Paragraph>
       </ScriptNote>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Cut to black.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>END DARK WAREHOUSE MONTAGE.</Text>
@@ -624,13 +591,15 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - EARLY MORNING - ERIK IN BED</Text>
+      <Text>INT. ERIK’S BEDROOM - EARLY MORNING - 1</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Medium shot of Erik’s bed and floor.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of Erik’s bed and floor.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Erik is wrapped up in his sheets. Erik is struggling and fighting to get out.</Text>
+      <Text>Erik is in his bed, wrapped up in his sheets. Erik is struggling and fighting to get out.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik falls off the bed face first. Erik hits the floor with a thud.</Text>
@@ -643,27 +612,22 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik jumps up from his sheets and rushes to his desk.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - EARLY MORNING - ERIK AT DESK</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of Erik sitting at desk in front of laptop.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik sitting at desk in front of laptop.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik types in his password and hits enter key. Erik stares at the screen.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - EARLY MORNING - ERIK AT DESK</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of laptop screen.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of laptop screen. Screen shows results of “ls” command listing 1,000s of student names in a directory. Format: “Name of student.html”</Text>
+      <Text>Laptop screen shows results of “ls” command listing 1,000s of student names in a directory. Format: “Name of student.html”</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
@@ -714,15 +678,14 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Brittany gets straight A’s? No fucking way. Does she blowbang the teachers like she did the football team?</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>DISSOLVE TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING - ERIK AT DESK</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Dissolve to show time has passed.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Dissolve to show time has passed. Erik has been taking these same actions for a period of time.</Text>
+      <Text>Erik has been taking these same actions (looking at student grades) for a period of time, roughly an hour.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>The terminal opens back up. Command: browser Justin\ Case.html</Text>
@@ -797,24 +760,22 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Oh my god. I can edit anyone’s grades. This is fucking incredible.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING - ERIK AT DESK</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Close up of Erik’s face. Erik has a devious smile and looks evil.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING - ERIK AT DESK</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of Erik’s face.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of laptop screen Back at search page. Search box: Jacob Schmidt Search button is clicked</Text>
+      <Text>Erik has a devious smile and looks evil.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of laptop screen at search page.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Laptop Screen Search box: &quot;Jacob Schmidt&quot;. Search button is clicked</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Browser page has student information on top left and a picture Jacob Schmidt on the top right.</Text>
@@ -833,12 +794,11 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Poor Jacob, it’s too bad you failed shop. Couldn’t make a lamp? Fucking idiot. Maybe, you’ll stop fucking with people.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING - ERIK AT DESK</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Closeup of Erik]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik has a smile on his face thinking of his revenge. After a moment, the smile disappears and his look turns serious.</Text>
@@ -848,10 +808,10 @@
     </Paragraph>
     <Paragraph Type='Scene Heading'>
       <Text>INT. PRINCIPAL’S OFFICE - MORNING</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of principal and police office reviewing logs on a computer.</Text>
       <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Medium shot of principal and police office reviewing logs on a computer.]]</Text>
+        </Paragraph>
         <Paragraph>
           <Text>[[Music: NINE INCH NAILS - GHOSTS III - TRACK 19]]</Text>
         </Paragraph>
@@ -867,39 +827,37 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING - ERIK AT DESK</Text>
+      <Text>INT. ERIK’S BEDROOM - EARLY MORNING - 2</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music: NINE INCH NAILS - GHOSTS III - TRACK 20]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Close up of Erik’s face.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of Erik’s face. Erik has a look of panic.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING - ERIK AT DESK</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Close up of laptop screen.</Text>
+      <Text>Erik has a look of panic.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of laptop screen.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Mouse clicks on Industrial Arts grade. Grade changes from F back to C.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Mouse goes to upper right corner of browser to “Logout”. Mouse clicks “Logout”. The screen flashes and takes him back to the School Grades Login screen. Mouse goes to X in the upper right corner. Mouse clicks X to shutdown the browser and laptop lid closes.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING - ERIK AT DESK</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik sitting at desk.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of Erik sitting at desk. Erik’s arms are crossed and he’s deep in thought. Erik’s chin is down and he’s gently rocking.</Text>
+      <Text>Erik’s arms are crossed and he’s deep in thought. Erik’s chin is down and he’s gently rocking.</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
@@ -927,42 +885,38 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik opens laptop lid.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING - ERIK AT DESK</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of Erik from behind the laptop, Erik looking at laptop. Erik moves the mouse around, types in some keys and clicks the mouse. Suddenly, Erik’s eyes turn red from the reflection of the laptop screen’s colors.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING - ERIK AT DESK</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik from behind the laptop,]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of side shot of Erik’s keyboard. Fingers are typing keys. Erik’s left hand reaches down to undo his pants. The right hand can be seen typing the last few keystrokes: A N A L</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING - ERIK AT DESK</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of Erik at desk. Erik is now using both hands to pull down his pants to his ankles. Erik is holding his semi-erect penis with his left hand and his right hand returns to the mouse.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING - ERIK AT DESK</Text>
+      <Text>Erik is looking at laptop. Erik moves the mouse around, types in some keys and clicks the mouse. Suddenly, Erik’s eyes turn red from the reflection of the laptop screen’s colors.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of side shot of Erik’s keyboard.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Cut to close up of laptop screen. Screen shows a porn site called: My Ultimate Free Tubes</Text>
+      <Text>Fingers are typing keys. Erik’s left hand reaches down to undo his pants. The right hand can be seen typing the last few keystrokes: A N A L</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik at desk.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Erik is now using both hands to pull down his pants to his ankles. Erik is holding his semi-erect penis with his left hand and his right hand returns to the mouse.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut to close up of laptop screen.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Laptop screen shows a porn site called: My Ultimate Free Tubes</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>In the search bar, the text shows: asian reverse cowgirl anal</Text>
@@ -975,22 +929,26 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Mouse goes down to the video length and fast forwards to two-thirds through the video.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING - ERIK AT DESK</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Over the shoulder shot looking downward from the left side. Camera can see Erik’s head and Erik’s left hand masturbating.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Camera pans forward to the laptop screen which shows a male porn star lying down with Asian Porn Star straddled over him, looking away from the camera. The female porn star is bouncing up and down with the man’s penis inside of her ass.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Camera pans closer and closer until it gets to an extreme close up of the laptop screen. Screen is pixelated.</Text>
       <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Over the shoulder shot looking downward from the left side. Camera can see Erik’s head and Erik’s left hand masturbating.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Erik is masturbating to the pornographic video.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Camera pans forward to the laptop screen which shows a male porn star lying down with Asian Porn Star straddled over him, looking away from the camera.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>The female porn star is bouncing up and down with the man’s penis inside of her ass.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Camera pans closer and closer until it gets to an extreme close up of the laptop screen. Screen is pixelated.]]</Text>
+        </Paragraph>
         <Paragraph>
           <Text>[[Music hits a static point and the screen flashes static then white.]]</Text>
         </Paragraph>
@@ -1000,34 +958,37 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. WHITE ROOM PORN SET - DAY</Text>
+      <Text>INT. WHITE ROOM PORN SET</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Camera flashes white. Camera slowly pans backward, revealing an extreme POV shot of Asian Porn Star.</Text>
+      <Text>A flash of white.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Camera slowly pans backward, revealing an extreme POV shot of Asian Porn Star.]]</Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>[[Camera continues to pan back as it turns into a POV shot from male porn star’s point of view.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Camera continues to pan back as it turns into a POV shot from male porn star’s point of view. Erik is now the male porn star.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. WHITE ROOM PORN SET - DAY</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of Asian Porn Star in a reverse cowgirl position, bouncing up and down on Erik.</Text>
+      <Text>Erik is now the male porn star on the set of the porn that he was watching on the laptop, watching the Asian Porn Star as she bounces on top of him.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Asian Porn Star in a reverse cowgirl position, bouncing up and down on Erik.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik looks like he can’t contain himself. He’s breathing heavily in lust.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. WHITE ROOM PORN SET - DAY</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: POV shot of Erik staring at Asian Porn Star with his penis in her ass.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>POV shot of Erik staring at Asian Porn Star with his penis in her ass. She is bouncing up and down very quickly, riding him very hard.</Text>
+      <Text>Asian Porn Star is bouncing up and down very quickly, riding him very hard.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>In less than 60 seconds, Erik can be heard moaning loudly as he cums in her ass. The cum can be seen dripping down his penis as she continues to bounce up and down.</Text>
@@ -1055,7 +1016,7 @@
       <Text>DISSOLVE TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING - ERIK AT DESK</Text>
+      <Text>INT. ERIK’S BEDROOM - MORNING</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Sound: EAR RINGING FADE-IN]]</Text>
@@ -1063,13 +1024,16 @@
         <Paragraph>
           <Text>[[Sound: DEEPLY BREATHING IN AND OUT]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Fade in from white. POV shot (Erik&apos;s point of view).]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Fade in from white. POV shot of Erik holding his penis with his right hand, semen all over his hand.</Text>
+      <Text>Erik is holding his penis with his right hand, semen all over his hand.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>There’s a hazy white picture of the inside of Erik’s bedroom as Erik watches Asian Porn Star still having sex the male porn star. The sound of the porn is barely audible from the ear ringing and deep breathing.</Text>
+      <Text>There’s a hazy white picture of the inside of Erik’s bedroom as Erik watches Asian Porn Star still having sex with the male porn star on his laptop. The sound of the porn is barely audible from the ear ringing and deep breathing.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik’s eyes slowly lean downward, showing his ankles are forced together from his pants around his ankles.</Text>
@@ -1078,10 +1042,12 @@
       <Text>Erik’s knees are open. Erik is slouching in the desk char, with a large gap between Erik’s back and chair.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>With a deep breath in, Erik’s head cocks slightly backward, leaning up towards the ceiling, eyes closed.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Fade to black.</Text>
+      <Text>With a deep breath in, Erik’s head tilts slightly backward, leaning up towards the ceiling, eyes closed.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Fade to black.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>DISSOLVE TO:</Text>
@@ -1092,16 +1058,16 @@
         <Paragraph>
           <Text>[[Music: NINE INCH NAILS: THE SLIP: THE FOUR OF US ARE DYING]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[No sound during the White Room Refractory Montage except for music. Fade in from black to a middle, high angle, handheld/POV shot of an all white room. Camera moves slightly during this sequence, imitating the normal movement of a person. However, there are no close ups, no panning backward. The viewer is in the room observing the activity.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>No sound during the White Room Refractory Montage except for music. Fade in from black to a middle, high angle, handheld/POV shot of an all white room. Camera moves slightly during this sequence, imitating the normal movement of a person. However, there are no close ups, no panning backward. The viewer is in the room observing the activity.</Text>
+      <Text>Erik is naked, sitting upright on an all white bed with his back up to the head board, eyes closed. Asian Porn Star is laying next to him on Erik’s left side. Erik has his left arm around her and his head resting on top of her head.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik is naked, sitting upright on an all white bed with his back up to the head board, eyes closed. Asian Porn Star is laying next to him on Erik’s left side. Erik has his left arm around her and his head resting on top of her</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>head. Erik’s right hand is holding his penis which is still wet with semen. Erik’s penis has softened, he no longer has an erection.</Text>
+      <Text>Erik’s right hand is holding his penis which is still wet with semen. Erik’s penis has softened, he no longer has an erection.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Asian Porn Star is caressing Erik’s chest and stomach. Erik has a big smile on his face. This continues for 10 seconds.</Text>
@@ -1141,14 +1107,17 @@
         <Paragraph>
           <Text>[[Music transitions to the next song in the Nine Inch Nails: The Slip album (one song played directly after another with no intentional gap instead of the natural gap on the album itself).]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Fade into close up of Erik’s bedroom door.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Fade into close up of Erik’s bedroom door. Door swings open.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>As the door swings open, the camera snaps backward to middle shot of the room.</Text>
+      <Text>Erik&apos;s bedroom door swings open.</Text>
       <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[As the door swings open, the camera snaps backward to middle shot of the room.]]</Text>
+        </Paragraph>
         <Paragraph>
           <Text>[[Music volume reduces.]]</Text>
         </Paragraph>
@@ -1164,31 +1133,42 @@
       <Text>Oh good you’re already up and dressed. We have a long day today. First, we need to pack up the car.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik’s Mom walks over to Erik’s bed. The camera follows her and pivots to the right. Erik comes into frame from the left. The camera continues to pivot until Erik is on the right and Erik’s Mom is on the left.</Text>
+      <Text>Erik’s Mom walks over to Erik’s bed.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[The camera follows her and pivots to the right. Erik comes into frame from the left. The camera continues to pivot until Erik is on the right and Erik’s Mom is on the left.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik is sitting at his desk naked. The naked women are crouching down, one on each of side of his chair. The Dominatrix is on Erik’s right, Asian Porn Star is on Erik’s left. All 3 of them are staring at Erik’s Mom.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik’s Mom puts the clothes on Erik’s bed. Erik’s Mom walks to the left and opens the window shades.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Close up of Erik’s face. Erik’s eyes are red. As the window shade opens, the room brightens up and the reflection of the light into the room changes his eyes from red to blue, from bottom to top.</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of Erik’s face.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Restore to medium shot of Erik’s room prior to window shades opening. Erik is still sitting at his Desk, but he’s clothed now. However, viewer can see that Erik’s pants are around his ankles under the desk. Erik is hiding his lower half using the desk. The two naked women are gone.</Text>
+      <Text>Erik’s eyes are red. As the window shade opens, the room brightens up and the reflection of the light into the room changes his eyes from red to blue, from bottom to top.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Restore to medium shot of Erik’s room prior to window shades opening.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Erik is still sitting at his Desk, but he has his shirt on.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[However, viewer can see that Erik’s pants are around his ankles under the desk.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Erik is hiding his lower half using the desk. The two naked women are gone.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik’s Mom walks from the windows across the room to the closet, directly to the right Erik’s desk. Erik’s Mom opens the sliding door to the closet and reaches inside. She grabs dirty clothes from the hamper in the closet.</Text>
@@ -1198,12 +1178,14 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Then, we need to go pick up your flower boutonniere on the way to Grandma and Grandpa&apos;s house. Grandpa isn&apos;t feeling well this morning, so he doesn&apos;t want to drive. We&apos;ll have to pick them up and head to the ceremony. Then, if Grandpa is feeling better, we&apos;ll go out for an earlier dinner after the ceremony.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[The camera pivots back and to the left, putting Erik on the left side of the frame.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>The camera pivots back and to the left, putting Erik on the left side of the frame. Erik’s Mom is holding the clothes and walking to the exit. Erik’s Mom stops and stares at</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Erik from behind. Erik’s laptop screen shows a white text editor with no text.</Text>
+      <Text>Erik’s Mom is holding the clothes and walking to the door. Erik’s Mom stops and stares at Erik from behind. Erik’s laptop screen shows a white text editor with no text.</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK’S MOM</Text>
@@ -1221,31 +1203,34 @@
       <Text>Yeah mom, I&apos;m fine.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik’s Mom takes a deep breath. She places the clothes on the couch in the middle of the room. Erik’s mom walks to the left and sits down on the edge of Erik’s bed. The camera pivots back and to the right again, with Erik to the right of the frame and Erik’s Mom to the left of the frame.</Text>
+      <Text>Erik’s Mom takes a deep breath. She places the clothes on the couch in the middle of the room. Erik’s mom walks to the left and sits down on the edge of Erik’s bed.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[The camera pivots back and to the right again, with Erik to the right of the frame and Erik’s Mom to the left of the frame.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK’S MOM</Text>
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Look, we need to talk. I know things haven&apos;t been easy. And I know you&apos;ve found your own way... Of coping... with everything. I... I&apos;m just.... I&apos;m really going to miss you, Erik.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Close up of under the desk. Erik’s holding his flaccid penis under the desk. Semen is dripping down his hand. A large drop of it drips down off of his hand and onto his leg.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of under the desk.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of Erik from Erik’s Mom POV. Erik is hunched over desk.</Text>
+      <Text>Erik’s holding his flaccid penis under the desk. Semen is dripping down his hand. A large drop of it drips down off of his hand and onto his leg.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik from Erik’s Mom POV.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Erik is hunched over desk.</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
@@ -1255,30 +1240,22 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>OK</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of Erik’s Mom from Erik’s POV. She is sitting with here hands folded in her lap.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik’s Mom from Erik’s POV. She is sitting with here hands folded in her lap.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK’S MOM</Text>
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Erik, I know I haven&apos;t always been there for you, but... I just want you to know. I&apos;m really, really going to miss you. It&apos;s going to be hard not to see you every day. In my eyes, you’re still my baby boy.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot from other side of the room. Erik’s back is to the camera on the right of the frame. Erik’s Mom is on the left of the frame.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot from other side of the room. Erik’s back is to the camera on the right of the frame. Erik’s Mom is on the left of the frame.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
@@ -1312,15 +1289,11 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik’s Mom nodes slightly again and puts her head down once more. Erik’s laptop screen shows a pop-up window that says: “Camgirls! Live Nude Women!” There’s a picture of a nude porn star lying seductively on her left side staring forward.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of Erik’s Mom from Erik’s POV. She is sitting with here hands folded in her lap.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik’s Mom from Erik’s POV. She is sitting with here hands folded in her lap.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK’S MOM</Text>
@@ -1351,30 +1324,22 @@
     </Paragraph>
     <Paragraph Type='Parenthetical'>
       <Text>(she screams, stands up and hurries out the door)</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot from side of room. Erik, Erik’s desk and Erik’s bed are on the left. Erik’s Mom has stood up and is hurrying out the room to the door on the right. The door slightly closes behind her, but not all the way.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot from side of room. Erik, Erik’s desk and Erik’s bed are on the left. Erik’s Mom has stood up and is hurrying out the room to the door on the right. The door slightly closes behind her, but not all the way.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik scrambles to stand up from his chair, still holding his penis with his right hand. Erik grabs at his pants with his left hand. Erik is tripping over himself as he struggles to get to the door.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>The door quickly opens back up.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Over the shoulder shot from Erik’s left shoulder looking at Erik’s Mom as Erik’s Mom quickly pops halfway into Erik’s room.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Over the shoulder shot from Erik’s left shoulder looking at Erik’s Mom as Erik’s Mom quickly pops halfway into Erik’s room.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK’S MOM</Text>
@@ -1388,10 +1353,13 @@
         <Paragraph>
           <Text>[[Music gets louder. Music lyric: Now I know, What this is all about, Now I know, Exactly what I am]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Camera pans to the right and pivots to the side showing Erik to the left and Erik’s Mom to the right.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Camera pans to the right and pivots to the side showing Erik to the left and Erik’s Mom to the right. Erik’s wet right hand is touching Erik’s Mom’s shoulder.</Text>
+      <Text>Erik’s wet right hand is touching Erik’s Mom’s shoulder.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik’s Mom looks to her left to see Erik’s wet hand touching her. Then she looks back at Erik.</Text>
@@ -1420,10 +1388,10 @@
         <Paragraph>
           <Text>[[Music lyric: There is a seed, Inside of me, That makes me]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Camera pivots to the right as the door shuts. Camera continues to pivot until there is a close up on Erik.]]</Text>
+        </Paragraph>
       </ScriptNote>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Camera pivots to the right as the door shuts. Camera continues to pivot until there is a close up on Erik.</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
@@ -1702,34 +1670,35 @@
         <Paragraph>
           <Text>[[Music: NINE INCH NAILS: GHOSTS III : TRACK 21]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Close up shot of Erik.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up shot of Erik looking out of the bus window (to his right). It’s raining outside and Erik is watching the rain fall.</Text>
+      <Text>Erik is looking out of the bus window (to his right). It’s raining outside and Erik is watching the rain fall.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>After a few seconds, Erik looks to his left.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. COLLEGE BUS - MORNING</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Over the shoulder, POV shot of Erik looking around the bus. Camera pans to the left.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Over the shoulder, POV shot of Erik looking around the bus. Camera pans to the left. There are various students on the bus who are looking out the window, staring at their phones or talking. Camera stops to the seat directly on the other side of the aisle from him.</Text>
+      <Text>There are various students on the bus who are looking out the window, staring at their phones or talking. Erik&apos;s scan stops to the seat directly on the other side of the aisle from him.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>There was Trashy Girl who was still in her pajamas with her coat on. Trashy Girl was wearing dirty cotton slippers with hard bottoms. Trashy Girl’s hair is knotty and she has her coat hood on.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. COLLEGE BUS - MORNING</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of Erik’s face as he stares at Trashy Girl. Hold shot for 3 seconds.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of Erik’s face as he stares at Trashy Girl. Hold shot for 3 seconds. Erik daydreams.</Text>
+      <Text>Erik daydreams of Trashy Girl.</Text>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>DISSOLVE TO:</Text>
@@ -1742,20 +1711,17 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>The door opens. Erik and Trashy Girl fall into the room over a trash pile.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. TRASHY GIRL’S DORM ROOM - MORNING</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music volume lowers.]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Cut To: Overhead shot looking down at Erik and Trashy Girl on the floor of Trashy Girl&apos;s Dorm.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Overhead shot looking down at Erik and Trashy Girl on the floor. They are lying on a pile of trash. Trash is scattered everywhere in the room.</Text>
+      <Text>Erik and Trashy Girl are lying on a pile of trash. Trash is scattered everywhere in the room.</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
@@ -1808,28 +1774,41 @@
         <Paragraph>
           <Text>[[Music volume resumes to previous level.]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Close up of Erik’s face.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of Erik’s face. Erik has a disgusted look as he’s shaking his head side to side (in a “no” motion). Erik turns back to his right to look back out the window at the pouring rain.</Text>
+      <Text>Erik has a disgusted look as he’s shaking his head side to side (in a “no” motion). Erik turns back to his right to look back out the window at the pouring rain.</Text>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
       <Text>EXT. COLLEGE BUILDING - COLLEGE BUS STOP - RAINING</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Medium shot of bus entering frame from right.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of bus entering frame from right. Bus is stopping in front of a school building. The bus stops, doors open (not seen from side shot). Students exit the bus and can be seen running up building steps to escape the rain.</Text>
+      <Text>Bus is stopping in front of a school building. The bus stops, doors open (not seen from side shot). Students exit the bus and can be seen running up building steps to escape the rain.</Text>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
       <Text>INT. SCHOOL BUILDING HALLWAY</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Medium shot walking backward. Focus is on Erik walking toward the camera in the hallway.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot walking backward. Focus is on Erik walking toward the camera in the hallway. Erik is holding a paper looking for his classroom.</Text>
+      <Text>Erik is walking down the school building hallway holding a paper, looking for his classroom.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik walks, checks the room number, then checks the paper and continues walking. After 3 tries, Erik finds his room number. Camera stops moving backward as Erik enters a room to the right of the frame.</Text>
@@ -1838,43 +1817,50 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <Text>INT. SCHOOL BUILDING CLASSROOM - 1</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[High angle shot from the back left corner of the classroom.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>High angle shot from the back left corner of the classroom. Classroom is full of students (roughly 30 desks). Only one desk remaining. Erik walks to the empty desk near the back right of the room on the far wall and sits down.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <Text>Classroom is full of students (roughly 30 desks). Only one desk remaining. Erik walks to the empty desk near the back right of the room on the far wall and sits down.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik sitting at desk.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of Erik sitting at desk. Erik opens his backpack and pulls out a pen and notebook. Erik places them on the desk.</Text>
+      <Text>Erik opens his backpack and pulls out a pen and notebook. Erik places them on the desk.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik looks around the room at the other students.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Over the shoulder shot, panning from right to left. Students were talking, looking at their phones, reading a book, etc.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Over the shoulder shot, panning from right to left.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Camera stops to far left at the desk next to him with Phone Girl in frame. Phone Girl was taking a sad face selfie and posting it to her social network feed. She took multiple photos trying to get just the right shot that satisfied her.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <Text>Students were talking, looking at their phones, reading a book, etc.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Camera stops to far left at the desk next to him with Phone Girl in frame.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of Erik’s face as he stares at Phone Girl. Hold shot for 3 seconds. Erik daydreams.</Text>
+      <Text>Erik notices Phone Girl, who was taking a sad face selfie and posting it to her social network feed. She took multiple photos trying to get just the right shot that satisfied her.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of Erik’s face as he stares at Phone Girl. Hold shot for 3 seconds.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Erik daydreams about Phone Girl.</Text>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>DISSOLVE TO:</Text>
@@ -1885,13 +1871,13 @@
         <Paragraph>
           <Text>[[Music stops.]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Medium shot of Erik and Phone Girl.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of Erik and Phone Girl. Phone Girl is laying on her stomach on her bed, propped up by her elbows,</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>chewing gum and typing something on her phone. Phone Girl has no shirt on but is wearing her bra.</Text>
+      <Text>Phone Girl is laying on her stomach on her bed, propped up by her elbows, chewing gum and typing something on her phone. Phone Girl has no shirt on but is wearing her bra.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik is shirtless, halfway on top of Phone Girl, kissing her neck. Erik stops kissing her neck and looks at Phone Girl’s phone.</Text>
@@ -1934,63 +1920,91 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Phone Girl shows Erik her phone.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of Phone Girl’s phone screen.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>On the phone&apos;s screen, there are multiple messages in a social networking stream</Text>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type='Dialogue'>
+      <Text>PHONE GIRL&apos;S PHONE</Text>
+    </Paragraph>
+    <Paragraph Type='Dialogue'>
+      <Text>OMG.</Text>
+    </Paragraph>
+    <Paragraph Type='Dialogue'>
+      <Text>He’s not doing it right.</Text>
+    </Paragraph>
+    <Paragraph Type='Dialogue'>
+      <Text>There, found the spot.</Text>
+    </Paragraph>
+    <Paragraph Type='Dialogue'>
+      <Text>OMGYG2BK, he moved!</Text>
+    </Paragraph>
+    <Paragraph Type='Dialogue'>
+      <Text>WTF WWYD?</Text>
+    </Paragraph>
+    <Paragraph Type='Dialogue'>
+      <Text>He stopped.</Text>
+    </Paragraph>
+    <Paragraph Type='Dialogue'>
+      <Text>Asking me WRUD.</Text>
+    </Paragraph>
+    <Paragraph Type='Dialogue'>
+      <Text>Looking at my phone...</Text>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Phone Girl continues to add &quot;W8ing&quot; three times.</Text>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Finally, she adds &quot;FML&quot;</Text>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. PHONE GIRL’S DORM ROOM - EVENING - PHONE SCREEN</Text>
+      <Text>INT. SCHOOL BUILDING CLASSROOM - 2</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of Erik.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of Phone Girl’s phone screen. There are multiple messages in a social networking stream.</Text>
+      <Text>Erik shakes his head in disappointment. Erik looks straight ahead to the front of the class as someone else enters the room.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Medium-long shot of front of class. Camera follows Professor Hand.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>OMG. He’s not doing it right There, found the spot. Oh god, he moved. WTF WWYD?</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>He stopped. Asking me what I’m doing. Looking at phone...</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Close up of Erik. Erik shakes his head in disappointment. Erik looks straight ahead to the front of the class as someone else enters the room.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium-long shot of front of class. Camera follows a man who enters the doorway and puts down a shoulder bag on the instructor’s desk at the far left of the room. Man walks back to the center of the room.</Text>
+      <Text>Professor Hand enters the doorway and puts down a shoulder bag on the instructor’s desk at the far left of the room. Professor Hand walks back to the center of the room.</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>PROFESSOR HAND</Text>
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Good morning. It looks like everyone is here, so let’s get started. My name is Professor Hand and this is Advanced Electromagnetic Field Theory.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Long, high angle POV shot from Professor Hand’s position. The students look around frantically. Some pull out their schedules, others were packing their bags and starting to stand up.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Long, high angle POV shot from Professor Hand’s position.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium low angle shot of Professor Hand smirking.</Text>
+      <Text>The students look around frantically. Some pull out their schedules, others were packing their bags and starting to stand up.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium low angle shot of Professor Hand smirking.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>PROFESSOR HAND</Text>
@@ -2000,15 +2014,11 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Sorry, bad joke. This is Psychology 101. If you are in the wrong class, you are free to leave now.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Long, high angle POV shot from Professor Hand’s position.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Long, high angle POV shot from Professor Hand’s position.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>All the students relax except for one: Confused Student wearing a long-sleeve flannel and scraggly hair looking like he just woke up. Confused Student stands up.</Text>
@@ -2018,60 +2028,44 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Uh, what room is this?</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium low angle shot of Professor Hand.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium low angle shot of Professor Hand.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>PROFESSOR HAND</Text>
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>One twelve</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium high angle shot of Confused Student.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium high angle shot of Confused Student.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>CONFUSED STUDENT</Text>
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Oh.... Where’s two-twelve?</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium low angle shot of Professor Hand.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium low angle shot of Professor Hand.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>PROFESSOR HAND</Text>
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Upstairs</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium high angle shot of Confused Student.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium high angle shot of Confused Student.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>CONFUSED STUDENT</Text>
@@ -2084,38 +2078,45 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Confused Student leaves the classroom.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium low angle shot of Professor Hand. Professor Hand is shaking his head from side to side.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>PROFESSOR HAND Anyone else?</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>The sound of wet sneakers squeaking as they step can be heard. The sound keeps getting closer.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
       <ScriptNote ID='1'>
         <Paragraph>
-          <Text>[[Music: NINE INCH NAILS: THE SLIP - LETTING YOU]]</Text>
+          <Text>[[Cut To: Medium low angle shot of Professor Hand.]]</Text>
         </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of doorway floor into classroom. Jessica’s sneakers walk into the doorway, leaving a trail of water as she walks.</Text>
+      <Text>Professor Hand is shaking his head from side to side.</Text>
+    </Paragraph>
+    <Paragraph Type='Character'>
+      <Text>PROFESSOR HAND</Text>
+    </Paragraph>
+    <Paragraph Type='Dialogue'>
+      <Text>Anyone else?</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Jessica stops just inside the classroom. The camera pans up, stopping at a close up of Jessica’s top half. Jessica is wearing a white t-shirt and jean shorts. Jessica is drenched in water. Jessica is looking toward Professor Hand.</Text>
+      <Text>The sound of wet sneakers squeaking as they step can be heard. The sound keeps getting closer.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Music: NINE INCH NAILS: THE SLIP - LETTING YOU]]</Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>[[Cut To: Close up of doorway floor into classroom.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Jessica’s sneakers walk into the doorway, leaving a trail of water as she walks.</Text>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Jessica stops just inside the classroom.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[The camera pans up, stopping at a close up of Jessica’s top half.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Jessica is wearing a white t-shirt and jean shorts. Jessica is drenched in water. Jessica is looking toward Professor Hand.</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music volume fades lower.]]</Text>
@@ -2130,44 +2131,46 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Jessica turns to look into the classroom.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>High angle, long shot from behind Jessica into the classroom, looking down at all the students. The students stare at Jessica.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Close up on Erik.</Text>
       <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: High angle, long shot from behind Jessica into the classroom, looking down at all the students.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>The students stare at Jessica.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up on Erik.]]</Text>
+        </Paragraph>
         <Paragraph>
           <Text>[[Music volume raises loudly. Music lyrics begin. Music lyric: The sky is painted black.]]</Text>
         </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik’s eyes are wide and his mouth slowly opens.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Low angle, medium shot of Jessica at the front of the class. Jessica walks in slow motion into the classroom to the open desk.</Text>
+      <Text>Erik’s eyes are wide and his mouth slowly opens as he stares at Jessica.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Low angle, medium shot of Jessica at the front of the class.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Camera follows Jessica and pans back as she walks. Jessica walks to the empty desk and sits down. Camera continues to back up and then pivots to the right, becoming a POV shot from Erik’s point of view.</Text>
+      <Text>Jessica walks in slow motion into the classroom toward the open desk.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Camera follows Jessica and pans back as she walks.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Jessica walks to the empty desk and sits down.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Camera continues to back up and then pivots to the right, becoming a POV shot from Erik’s point of view.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>All the students are staring at Jessica.</Text>
@@ -2175,17 +2178,9 @@
         <Paragraph>
           <Text>[[Music lyric: And we are letting you get away. We are letting you get away it.]]</Text>
         </Paragraph>
-      </ScriptNote>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Low angle, medium shot of Professor Hand at the front of the class.</Text>
-      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Low angle, medium shot of Professor Hand at the front of the class.]]</Text>
+        </Paragraph>
         <Paragraph>
           <Text>[[Music stops suddenly with the camera cut and Professor Hand talking.]]</Text>
         </Paragraph>
@@ -2196,15 +2191,14 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Oh... Kay.... As I was saying, I am Professor Hand and this is Psychology 101.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Long shot from back of classroom.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Long shot from back of classroom. The students stop staring at Jessica and look at Professor Hand.</Text>
+      <Text>The students stop staring at Jessica and look at Professor Hand.</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>PROFESSOR HAND</Text>
@@ -2214,50 +2208,47 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Professor continues on instructing the class.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music: NINE INCH NAILS - GHOSTS II TRACK 14]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Cut To: Close up of Erik.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of Erik. Erik’s face is still wide eyed with mouth open. Erik is still staring at Jessica.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>POV shot of Jessica from Erik’s point of view. Camera is angled from the side.</Text>
+      <Text>Erik’s face is still wide eyed with mouth open. Erik is still staring at Jessica.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: POV shot of Jessica from Erik’s point of view. Camera is angled from the side.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Jessica pulls hair to side and wrings it out. Water drips down.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of Erik. Erik has same look as before. It&apos;s like he&apos;s frozen in time.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of Erik. Same look as before. Erik is mesmerized by Jessica.</Text>
+      <Text>Erik is mesmerized by Jessica. Erik daydreams of Jessica.</Text>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>DISSOLVE TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
       <Text>INT. ERIK’S DORM ROOM</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Medium shot of Erik and Jessica standing.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of Erik and Jessica standing. Erik and Jessica are making out. Erik is dry and Jessica is drenched in water. They are taking off each other’s clothes as they make out.</Text>
+      <Text>Erik and Jessica are making out. Erik is dry and Jessica is drenched in water. They are taking off each other’s clothes as they make out.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>After both of them are naked, they continue to make-out</Text>
@@ -2272,10 +2263,15 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <Text>INT. SCHOOL BUILDING CLASSROOM - 3</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of Erik.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of Erik. Erik has a dreamy smile on his face.</Text>
+      <Text>Erik has a dreamy smile on his face.</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>PROFESSOR HAND</Text>
@@ -2299,15 +2295,14 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Uh yeah?</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: High angle, medium shot of Professor Hand.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>High angle, medium shot of Professor Hand. Professor Hand looks toward Erik raising an eyebrow. Professor Hand smirks while shaking his head.</Text>
+      <Text>Professor Hand looks toward Erik raising an eyebrow. Professor Hand smirks while shaking his head.</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>PROFESSOR HAND</Text>
@@ -2320,83 +2315,83 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Here</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Erik POV shot of Jessica. Jessica raised her hand when saying “Here” and then lowered it.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Erik POV shot looking at Jessica.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of Erik’s face. Erik has a smile on his face.</Text>
+      <Text>Jessica raised her hand when saying “Here” and then lowered it.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of Erik’s face.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Erik has a smile on his face.</Text>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>FADE TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <Text>INT. SCHOOL BUILDING CLASSROOM - 3</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music: NINE INCH NAILS - GHOSTS II TRACK 18]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Cut To: Low angle, long shot from back of classroom.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Low angle, long shot from back of classroom. Professor Hand is instructing the class from the front of the class. There is a whiteboard behind Professor Hand with writing on it.</Text>
+      <Text>Several minutes have passed. Professor Hand is deep into a lesson.</Text>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Professor Hand is instructing the students from the front of the class. There is a whiteboard behind Professor Hand with writing on it.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Students are writing in their notebooks.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Close up of Erik. Erik is dreamily smiling while staring at Jessica. Erik has a drunken look on his face.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of Erik.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>POV shot of Jessica from Erik’s point of view. Jessica is paying attention to Professor Hand and writing in her notebook.</Text>
+      <Text>Erik is dreamily smiling while staring at Jessica. Erik has a drunken look on his face.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: POV shot of Jessica from Erik’s point of view.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Jessica is paying attention to Professor Hand and writing in her notebook.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Lost Pencil Student directly in front of Erik drops their pencil and leans down to pick it up. This obstructs Erik’s view briefly.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of Erik as Lost Pencil Student obstructs view. Erik snaps out of his dream state. Erik looks around and sees everyone writing.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik as Lost Pencil Student obstructs view.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Over the shoulder shot of Erik looking toward the front of the classroom. Lost Pencil Student finally retrieves pencil and sits upright in his chair. Erik looks to the front of the class.</Text>
+      <Text>Erik snaps out of his dream state. Erik looks around and sees everyone writing.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Over the shoulder shot of Erik looking toward the front of the classroom.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>As Lost Pencil Student sits back in their seat, Professor Hand comes into clarity of the frame. Professor Hand is staring directly at Erik.</Text>
+      <Text>Lost Pencil Student finally retrieves pencil and sits upright in his chair. Erik looks to the front of the class.</Text>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>As Lost Pencil Student sits back in their seat, Professor Hand comes into Erik&apos;s view. Professor Hand is staring directly at Erik.</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music fades out quickly.]]</Text>
@@ -2408,24 +2403,19 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>One last time just to make sure everyone heard it. The password for the homework site is the last four digits of your student ID number. Write that down.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of Erik. Erik looks down and starts writing in his own notebook.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Low angle, medium shot of Professor Hand.</Text>
+      <Text>Erik looks down and starts writing in his own notebook.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Low angle, medium shot of Professor Hand.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>PROFESSOR HAND</Text>
@@ -2435,30 +2425,28 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Everything else you need is on the same website. Go there today and fill out the forms. If you don’t have them tomorrow, you will be in trouble. Understood?</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: High angle, long shot of classroom from behind Professor Hand.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>High angle, long shot of classroom from behind Professor Hand. The students nodded in acknowledgement.</Text>
+      <Text>The students nodded in acknowledgement.</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>PROFESSOR HAND</Text>
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Great, let’s continue on. So, which of you have a burning desire to pursue a career in Psychology? You? OK, great. Let’s talk about your passion...</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM - CLASSROOM ON FIRE</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of Erik’s face, staring at Jessica.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of Erik’s face, staring at Jessica.</Text>
+      <Text>Erik looks up after writing in his notebook. Erik continues to stare at Jessica. Erik daydreams about Jessica.</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music volume gets loud again.]]</Text>
@@ -2470,117 +2458,102 @@
     </Paragraph>
     <Paragraph Type='Scene Heading'>
       <Text>INT. SCHOOL BUILDING CLASSROOM - CLASSROOM ON FIRE</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Day To: Medium shot of middle of classroom. Jessica is on the left, Erik is on the right. ]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of middle of classroom. Classroom is empty except for Jessica and Erik. Jessica is on the left, Erik is on the right. They are roughly 7 feet apart. The classroom is on fire in the background.</Text>
+      <Text>Classroom is empty except for Jessica and Erik.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>They slowly walk toward each other. When they reach each other, they embrace. They hold each other closely and</Text>
+      <Text>They are roughly 7 feet apart. The classroom is on fire in the background.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>passionately kiss. The fire in the classroom intensifies, surrounding them.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM - CLASSROOM ON FIRE</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Rotating 360 shot of Erik and Jessica as they make out. The classroom is burning around them.</Text>
+      <Text>They slowly walk toward each other. When they reach each other, they embrace. They hold each other closely and passionately kiss. The fire in the classroom intensifies, surrounding them.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Rotating 360 shot of Erik and Jessica as they make out. The classroom is burning around them.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik rips open Jessica’s button up shirt. Jessica pulls Erik’s t-shirt over his head.</Text>
     </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>QUICK CUT:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM - CLASSROOM ON FIRE</Text>
+    <Paragraph Type='Action'>
+      <Text>Erik and Jessica quickly take the following actions.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik and Jessica are making out topless.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>QUICK CUT:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM - CLASSROOM ON FIRE</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Close up of Erik’s pants. Jessica unbuttons and rips down.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>QUICK CUT:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM - CLASSROOM ON FIRE</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Close up of Erik’s pants.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of Jessica’s back. Erik un-does the clasp on Jessica’s bra. It falls off.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>QUICK CUT:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM - CLASSROOM ON FIRE</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Close up of Jessica’s pants. Erik unbuttons and rips down.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>QUICK CUT:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM - CLASSROOM ON FIRE</Text>
+      <Text>Jessica unbuttons and rips down.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Close up of Jessica’s back.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of Erik and Jessica are making out naked. They are moving to the left of the frame. Jessica is backing up as Erik walks forward.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM - CLASSROOM ON FIRE</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of Professor Hand’s desk. Jessica is grinding on top of Erik, teasing his cock to enter her. Erik picks up Jessica and sits her on top of the desk.</Text>
+      <Text>Erik un-does the clasp on Jessica’s bra. It falls off.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Close up of Jessica’s pants.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>The fire alarm sounds and continues playing.</Text>
+      <Text>Erik unbuttons and rips down.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Medium shot of Erik and Jessica. They are moving to the left of the frame.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>FIRE ALARM SOUND:</Text>
+      <Text>Erik and Jessica continue making out while naked. Jessica is backing up as Erik walks forward.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Professor Hand’s desk.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>The fire intensifies. Erik enters Jessica and they begin having sex. Erik grabs at Jessica’s left breast. Erik puts Jessica’s left nipple in his mouth. Erik bites Jessica’s nipple and sucks it. Jessica’s head leans back, looking up toward the ceiling. Jessica holds Erik’s head close to her chest as he sucks on her breast</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM - CLASSROOM ON FIRE</Text>
+      <Text>Jessica is grinding on top of Erik, teasing his cock to enter her. Erik picks up Jessica and sits her on top of the desk.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of sprinkler on the ceiling. The sprinkler turns on. Water starts flowing out of the head, spraying downward.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM - CLASSROOM ON FIRE</Text>
+      <Text>The fire alarm sounds and continues to constantly blare.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of Erik and Jessica having sex on Professor Hand’s desk under sprinkler.</Text>
+      <Text>The fire intensifies. Erik enters Jessica and they begin having sex. Erik grabs at Jessica’s left breast. Erik puts Jessica’s left nipple in his mouth. Erik bites Jessica’s nipple and sucks it. Jessica’s head leans back, looking up toward the ceiling. Jessica holds Erik’s head close to her chest as he sucks on her breast.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of sprinkler on the ceiling.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Water is pouring down on top of them, drenching their bodies. The water is cold and Jessica’s nipples get hard. The fire continues to burn around them.</Text>
+      <Text>The sprinkler turns on. Water starts flowing out of the head, spraying downward.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik and Jessica having sex on Professor Hand’s desk under sprinkler.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Water is pouring down on top of them, drenching their bodies. The water is cold and Jessica’s nipples get hard. The fire continues to burn around them as they have sex on Professor Hand&apos;s desk.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Jessica is moaning with delight. Erik and Jessica begin fucking harder. The sound of water sloshing around them can be heard.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik is moaning loudly now. Jessica is screaming pleasure. The water is bouncing off of them as they move.</Text>
+      <Text>Erik is moaning loudly now. Jessica is screaming with pleasure. The water is bouncing off of them as they move.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>The water is keeping the fire away from Erik and Jessica. They are safe from the flames as they continue to fuck.</Text>
@@ -2590,18 +2563,22 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Both Erik and Jessica are breathing heavily. The water stops and the two hold each other passionately.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM - CLASSROOM ON FIRE</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>High angle long shot, panning backward. The fire intensifies around them. There is no water to protect them anymore.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: High angle long shot, panning backward.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Camera pans out as the fire consumes the two. A classroom bell sounds. Bell overpowers fire alarm.</Text>
+      <Text>The fire intensifies around them. There is no water left in the sprinklers to protect them any longer.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Camera pans out as the fire consumes the two.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Fire advances onto Erik and Jessica until they are consumed. A classroom bell sounds. Bell overpowers fire alarm.</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Bell overpowers music.]]</Text>
@@ -2620,49 +2597,42 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <Text>INT. SCHOOL BUILDING CLASSROOM - 4</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of Erik daydreaming.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of Erik daydreaming. Erik’s head shakes as the sound of the bell awakes him from his daydream.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Low angle medium shot of Professor Hand in the front of the classroom.</Text>
+      <Text>Erik’s head shakes as the sound of the bell awakes him from his daydream.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Low angle medium shot of Professor Hand in the front of the classroom.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>PROFESSOR HAND</Text>
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Alright. It was nice meeting everyone. Have a good rest of your day and I will see you all again tomorrow.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>High angle medium shot of classroom from the front of the classroom. The students pack up their bags and leave the classroom.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: High angle medium shot of classroom from the front of the classroom.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of Erik. Erik stands up quickly. Erik has a large bulge in his pants. Erik quickly sits down and adjusts himself.</Text>
+      <Text>The students pack up their bags and leave the classroom.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM</Text>
+    <Paragraph Type='Action'>
+      <Text>Erik stands up quickly. Erik has a large bulge in his pants. Erik quickly sits down and adjusts himself.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik stands up again and leaves the classroom in a hurry.</Text>
@@ -2671,7 +2641,7 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING HALLWAY</Text>
+      <Text>INT. SCHOOL BUILDING HALLWAY - LEAVING BUILDING - 1</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music: NINE INCH NAILS - GHOSTS II TRACK 24]]</Text>
@@ -2679,42 +2649,46 @@
         <Paragraph>
           <Text>[[Music volume is low.]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Medium following shot of Erik in hallway.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium following shot of Erik in hallway. Erik is walking quickly. Camera is panning backward, following his movement.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING HALLWAY</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Over the shoulder shot from Erik’s point of view. Camera is panning forward as Erik is walking. Jessica is in front of Erik.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING HALLWAY</Text>
+      <Text>Erik is walking quickly to catch up to Jessica.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Camera is panning backward, following his movement.]]</Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>[[Cut To: Over the shoulder shot from Erik’s point of view. Camera is panning forward as Erik is walking.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of Erik. Erik is staring at Jessica as he walks.</Text>
+      <Text>Erik catches up. Jessica is in front of Erik. Erik slows his pace.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Close up of Erik.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Erik is staring at Jessica as he walks.</Text>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>DISSOLVE TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING HALLWAY - ACTION 1</Text>
+      <Text>INT. SCHOOL BUILDING HALLWAY - LEAVING BUILDING - ACTION 1</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music gets louder.]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Medium shot of Erik and Jessica walking in hallway.]]</Text>
+        </Paragraph>
       </ScriptNote>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of Erik and Jessica walking in hallway.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Jessica stops suddenly in front of a door. Jessica turns around, smiles and grabs Erik’s hand. Jessica opens the door and pulls Erik by his arm inside the room. The door closes. Sign on the door says: Authorized Personnel Only</Text>
@@ -2724,36 +2698,44 @@
     </Paragraph>
     <Paragraph Type='Scene Heading'>
       <Text>INT. SCHOOL BUILDING CLOSET - ACTION 1</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut to black.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Cut to black. Darkness in the room. Door slam shut sound heard. A pull string sounds and a light bulb overhead illuminates.</Text>
+      <Text>Darkness in the room. Door slam shut sound heard. A pull string sounds and a light bulb overhead illuminates.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Erik POV shot looking at Jessica.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik POV shot looking at Jessica holding the pull switch chain. Behind Jessica, there was a shelf with various cleaning supplies stocked on the shelf. The room had a vacuum cleaner and a push broom.</Text>
+      <Text>Jessica is holding the pull switch chain. Behind Jessica, there was a shelf with various cleaning supplies stocked on the shelf. The room had a vacuum cleaner and a push broom.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Jessica slowly walks toward Erik. Then, she suddenly throws herself onto him.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLOSET - ACTION 1</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik and Jessica.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of Erik and Jessica making out. Jessica’s hands go right to Erik’s pants and she unbuckles Erik’s belt.</Text>
+      <Text>Erik and Jessica are making out. Jessica’s hands go right to Erik’s pants and she unbuckles Erik’s belt.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>After the belt is unbuckled, Jessica drops to her knees, ripping down Erik’s pants. Erik is breathing heavily as he looks down at Jessica.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLOSET - ACTION 1</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Erik POV shot, looking down at Jessica.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik POV shot, looking down at Jessica. Jessica is holding Erik’s erect penis in her hand.</Text>
+      <Text>Jessica is holding Erik’s erect penis in her hand.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>She looks up at Erik with her mouth open. She licks the the head of Erik’s penis.</Text>
@@ -2769,9 +2751,11 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Jessica looks up and locks eyes with Erik. Jessica has Erik’s entire penis in her mouth, down to his stomach.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>The camera shot blackens on the top and bottom, moving toward the middle of the screen (like a person blinking).</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[The camera shot blackens on the top and bottom, moving toward the middle of the screen (like a person blinking).]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik exhales with a sigh.</Text>
@@ -2780,15 +2764,18 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING HALLWAY</Text>
+      <Text>INT. SCHOOL BUILDING HALLWAY - LEAVING BUILDING - 2</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music volume drops low.]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Close up of Erik’s face.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of Erik’s face. Erik’s eyes are closed, but quickly open (like he was blinking as he walked).</Text>
+      <Text>Erik’s eyes are closed, but quickly open (like he was blinking as he walked).</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik is walking down hallway. His head is tilted downwards and his eyes are fixated on the person in front of him.</Text>
@@ -2800,11 +2787,11 @@
       <Text>DISSOLVE TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING HALLWAY - ACTION 2</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Cut to black. Image reappears from middle with black moving toward the top and bottom (like a person blinking). POV shot of Erik walking down the hallway. Camera moves with Erik.</Text>
+      <Text>INT. SCHOOL BUILDING HALLWAY - LEAVING BUILDING - ACTION 2</Text>
       <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut to black. Image reappears from middle with black moving toward the top and bottom (like a person blinking). POV shot of Erik walking down the hallway. Camera moves with Erik.]]</Text>
+        </Paragraph>
         <Paragraph>
           <Text>[[Music resumes loud volume.]]</Text>
         </Paragraph>
@@ -2814,7 +2801,15 @@
       <Text>Erik looks to his left. Jessica is in a room with the door slightly open looking at Erik. Jessica is motioning to Erik with her finger to “come to her”.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik turns to walk into the room. Camera stops moving with Erik, to a medium shot of the door. Erik steps into frame. Erik walks toward the door and steps into the room.</Text>
+      <Text>Erik pauses, then turns to walk toward the room.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Camera stops moving with Erik, to a medium shot of the door. Erik steps into frame.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Erik continues to walk toward the door and steps into the room.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Jessica is still at the doorway after Erik walks inside. Jessica winks at the camera and shuts the door behind her. The sign on the door says: PRIVATE</Text>
@@ -2824,9 +2819,19 @@
     </Paragraph>
     <Paragraph Type='Scene Heading'>
       <Text>INT. SCHOOL BUILDING BATHROOM - ACTION 2</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of interior of a large bathroom.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of interior of a large bathroom. It’s a private faculty bathroom, but there are multiple stalls and sinks. The lights are off, but the sunlight pours through the window that is near the top of the wall in the room. Jessica is on the left, Erik is on the right.</Text>
+      <Text>The large bathroom is a private faculty bathroom, but there are multiple stalls and sinks. The lights are off, but the sunlight pours through the window that is near the top of the wall in the room.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Jessica is on the left, Erik is on the right.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Jessica locks the door and then quickly turns around. Jessica’s back is up against the door and her arms fall at 30 Degree angles from her body. Jessica’s palms are resting flat on the wall as if she’s blocking Erik from leaving.</Text>
@@ -2841,10 +2846,7 @@
       <Text>Both Erik and Jessica frantically rip at each others clothes. Jessica rips Erik’s t-shirt in half and it falls off of him. Erik rips at Jessica’s button shirt. The buttons fling off. Erik rips open Jessica’s bra from the front.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Jessica’s clothes stay on her shoulders but her skin is exposed. Erik rips down Jessica’s shorts to her ankles, ducking to pull them down. Erik quickly jumps up and pulls</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>down his pants to his ankles. Jessica steps out of her shorts and spreads her legs.</Text>
+      <Text>Jessica’s clothes stay on her shoulders but her skin is exposed. Erik rips down Jessica’s shorts to her ankles, ducking to pull them down. Erik quickly jumps up and pulls down his pants to his ankles. Jessica steps out of her shorts and spreads her legs.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik holds his erect penis and moves forward to insert it into Jessica. Jessica wraps her arms around Erik and kisses him aggressively.</Text>
@@ -2860,26 +2862,36 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik’s penis slowly moves forward past the clit. Erik moves the tip into Jessica’s vagina. Jessica sighs seductively. Jessica’s hands move to Erik’s ass. Jessica pulls him in deeply. Jessica lets out a scream of pleasure.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[The camera shot blackens on the top and bottom, moving toward the middle of the screen (like a person blinking).]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>The camera shot blackens on the top and bottom, moving toward the middle of the screen (like a person blinking).</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Erik blinks. Cut to black.</Text>
+      <Text>Erik blinks.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut to black.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING HALLWAY</Text>
+      <Text>INT. SCHOOL BUILDING HALLWAY - LEAVING BUILDING - 3</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music volume drops low.]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Close up of Erik’s face.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Close up of Erik’s face. Erik’s eyes are closed, but quickly open (like he was blinking as he walked).</Text>
+      <Text>Erik’s eyes are closed, but quickly open (like he was blinking as he walked).</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik is walking down hallway. Erik shakes his head and opens his eyes. Erik continues walking down the hallway.</Text>
@@ -2893,22 +2905,24 @@
         <Paragraph>
           <Text>[[Music fades out to silence.]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Long shot of front of building.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Long shot of front of building. All of the students exit the building. The ground was wet, but the sun is shining.</Text>
+      <Text>All of the students exit the building. The ground was wet, but the sun is shining.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>All of the students walk down the steps to the bus stop.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>EXT. COLLEGE BUILDING - COLLEGE BUS STOP</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of Erik standing behind Jessica as they wait for the bus.</Text>
+      <Text>Erik is standing behind Jessica as they wait for the bus.</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
@@ -2930,63 +2944,58 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Hi</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Long shot of front of the building.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>The bus pull up.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of side of bus.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>The bus door opens. The students enter the bus door.</Text>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>EXT. COLLEGE BUILDING - COLLEGE BUS STOP</Text>
+      <Text>INT. COLLEGE BUS - 1</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Long shot of inside of bus.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Long shot of front of the building as the bus pull up.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>EXT. COLLEGE BUILDING - COLLEGE BUS STOP</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of side of bus. The students enter the bus door.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. COLLEGE BUS</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Long shot of inside of bus. Students walk through the bus aisle. Students sit down as the seats are available.</Text>
+      <Text>Students walk through the bus aisle. Students sit down as the seats are available.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>The bus was crowded.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. COLLEGE BUS</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot as Jessica and Erik walk inside of the bus. Camera pans back as the two walk forward. Jessica stop because there is no more room on the bus. Erik and Jessica had to stand. They are standing next to each other.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>EXT. COLLEGE BUILDING - COLLEGE BUS STOP</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Medium shot as Jessica and Erik walk inside of the bus. Camera pans back as the two walk forward.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Long shot of front of building as the bus pulls away.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. COLLEGE BUS</Text>
+      <Text>Erik and Jessica are looking for seats on the bus. Jessica stops because there is no more room on the bus. Erik and Jessica had to stand. They are standing next to each other.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Long shot of front of building as the bus pulls away.]]</Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Jessica and Erik.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of Jessica and Erik. Jessica is looking out the window, not paying attention to Erik.</Text>
+      <Text>The bus is moving. Jessica is looking out the window, not paying attention to Erik.</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
@@ -3013,7 +3022,7 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>EXT. COLLEGE BUS STOP</Text>
+      <Text>EXT. COLLEGE BUS STOP 2</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music: NINE INCH NAILS - GHOSTS TRACK 37]]</Text>
@@ -3021,16 +3030,24 @@
         <Paragraph>
           <Text>[[Music volume is low.]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Long shot of a bus stop.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Long shot of a bus stop as the bus pulls in the bus stop and stops moving. There is a group of students waiting to get on the bus.</Text>
+      <Text>The bus pulls in the bus stop and stops moving. There is a group of students waiting to get on the bus.</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. COLLEGE BUS</Text>
+      <Text>INT. COLLEGE BUS - 2</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium-Long shot of inside of bus.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium-Long shot of inside of bus. Some students stand up from seats and leave the bus. Jessica sits down on an open seat that becomes available.</Text>
+      <Text>Some students stand up from seats and leave the bus. Jessica sits down on an open seat that becomes available.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>More students pack on pushing Erik to walk to the back of the bus. Erik kept turning around, trying to see Jessica.</Text>
@@ -3040,32 +3057,25 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>The bus begins to move again.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. COLLEGE BUS</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music volume higher.]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Tempo of the song picks up. Siren in song begins to sound.]]</Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Tempo of the song picks up. Siren in song begins to sound.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of Erik. Erik keeps looking around everyone to see Jessica.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. COLLEGE BUS</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>POV shot of Erik looking around, trying to see Jessica. Camera moves left, right, up, down. No sight of Jessica.</Text>
+      <Text>Erik keeps looking around everyone to see Jessica.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: POV shot of Erik looking around, trying to see Jessica. Camera moves left, right, up, down. No sight of Jessica.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Finally, Erik focuses on the Bus Passenger directly in front of him that has been staring at Erik the entire time. Bus Passenger is giving Erik a strange look.</Text>
@@ -3080,15 +3090,11 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>You lost something?</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. COLLEGE BUS</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of Erik and Bus Passenger.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik and Bus Passenger.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
@@ -3112,30 +3118,28 @@
     </Paragraph>
     <Paragraph Type='Scene Heading'>
       <Text>EXT. COLLEGE BUS STOP - OUTSIDE OF DORM BUILDING</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Long shot of bus.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Long shot of bus as it stops in front of Erik’s dorm building. Bus doors open and students start to leave.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. COLLEGE BUS</Text>
+      <Text>Bus stops in front of Erik’s dorm building. Bus doors open and students start to leave.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Long shot of inside of bus. Students exit the bus.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>EXT. COLLEGE BUS STOP - OUTSIDE OF DORM BUILDING</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of Erik exiting the bus. Erik was in front of his dorm building. Erik frantically looks around, trying to find Jessica.</Text>
+      <Text>All of the students exit the bus.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of Erik exiting the bus.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Behind Erik, the bus doors close and the bus continued to move. Behind Erik, the bus drives away out of view. A view of a strip mall can be seen behind Erik. Unknown Girl is crossing the street.</Text>
+      <Text>Erik was in front of his dorm building. Erik frantically looks around, trying to find Jessica.</Text>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Behind Erik, the bus doors close and the bus continued to move. Behind Erik, the bus drives away out of view. As the bus drives away, a view of a strip mall can be seen behind Erik. Unknown Girl is crossing the street.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Unknown Girl is not in complete focus, image is slightly blurred. Unknown Girl is wearing a white t-shirt and jean shorts.</Text>
@@ -3146,13 +3150,13 @@
         <Paragraph>
           <Text>[[Music: NINE INCH NAILS - GHOSTS IV - TRACK 29]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Camera pans backward behind Erik, showing a larger view of the strip mall.]]</Text>
+        </Paragraph>
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Camera pans backward behind Erik, showing a larger view of the strip mall.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Unknown Girl walks underneath “Followe’s Book Store”. To the right of the book store was “The White Rabbit: Sports Bar and Grill”.</Text>
+      <Text>Unknown Girl is across the street. Unknown Girl walks underneath “Followe’s Book Store”. To the right of the book store was “The White Rabbit: Sports Bar and Grill”.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Unknown Girl turns left after crossing the street and continues walking. Erik walks forward. Erik speeds up to a light jog as he crosses the street to follow Unknown Girl.</Text>
@@ -3165,51 +3169,72 @@
     </Paragraph>
     <Paragraph Type='Scene Heading'>
       <Text>EXT. STRIP MALL - BETWEEN BOOK STORE AND CONVENIENCE STORE</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Over the shoulder shot focusing on the convenience store door.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Over the shoulder shot focusing on the convenience store door. Unknown Girl was inside the convenience store and the door was closing behind her. Erik follows Unknown Girl.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>EXT. STRIP MALL - BETWEEN BOOK STORE AND CONVENIENCE STORE</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Long shot of strip mall. Convenience store is on the left, book store is on the right. Erik is walking quickly from right to left.</Text>
+      <Text>Unknown Girl was inside the convenience store and the door was closing behind her. Erik follows Unknown Girl.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Long shot of strip mall. Convenience store is on the left, book store is on the right. Erik is walking quickly from right to left.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik passes: Golden Key Shoes and Locksmith Erik enters the convenience store.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. CONVENIENCE STORE</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Long shot of convenience store door. Erik enters convenience store and sees Unknown Girl at the register</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>counter straight ahead. Erik quickly turns to his right (left of frame).</Text>
+      <Text>Erik passes: Golden Key Shoes and Locksmith. Erik enters the convenience store.</Text>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
       <Text>INT. CONVENIENCE STORE</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Long shot of convenience store door.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Handheld follow shot. Camera follows Erik as he slowly walks down the aisle. Erik looks through the shelf trying to see Unknown Girl.</Text>
+      <Text>Erik enters convenience store and sees Unknown Girl at the register counter straight ahead. Erik quickly turns to his right.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[(Erik&apos;s right is left of frame).]]</Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>[[Cut To: Handheld follow shot. Camera follows Erik]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik looks behind him. Camera follows Erik’s eyes from behind Erik with Erik in frame. There’s a cooler with several drinks. The sign above the cooler says: “Drink Me”</Text>
+      <Text>Erik slowly walks down the aisle. Erik looks through the shelf trying to see Unknown Girl through the shelf at the counter.</Text>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Erik looks behind him.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Camera follows Erik’s eyes from behind Erik with Erik in frame.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>There’s a cooler with several drinks. The sign above the cooler says: “Drink Me”</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik opens the cooler door and takes out a drink Erik opens the drink and drinks it.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik turns around to look through the shelf. Erik is ducking down. The camera is behind Erik looking through the shelf. Two figures can be seen slightly through the shelf.</Text>
+      <Text>Erik turns around to look through the shelf again. Erik is ducking down.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[The camera is behind Erik looking through the shelf.]]</Text>
+        </Paragraph>
+      </ScriptNote>
+    </Paragraph>
+    <Paragraph Type='Action'>
+      <Text>Two figures can be seen slightly through the shelf.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik’s view is obstructed by a sign that says: “Eat Me” Erik looks around the sign and sees a small package of brownie cakes. Erik pulls the package of brownie cakes down from the shelf.</Text>
@@ -3221,40 +3246,42 @@
       <Text>Erik stands up to get a better view. Erik can see Unknown Girl briefly before she walks away. Erik catches a short glance as Unknown Girl walks through the entry door and exits the convenience store.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Erik runs to his right with the brownie cakes and the drink in his hands. Camera follows him as he rushes to the cashier counter.</Text>
+      <Text>Erik runs to his right with the brownie cakes and the drink in his hands.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Camera follows him as he rushes to the cashier counter.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
       <Text>INT. CONVENIENCE STORE - CASHIER COUNTER</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of cashier counter. Erik runs into frame.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot of cashier counter. Store Clerk was looking down. Erik runs into frame. Erik places brownie cakes and drink down on the counter.</Text>
+      <Text>Store Clerk was looking down. Erik places brownie cakes and drink down on the counter.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Store Clerk takes the scanner and scans the two items. Erik steps to his right and looks out the doorway of the convenience store.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. CONVENIENCE STORE</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Long shot looking at the aisle leading to the glass doorway of the convenience store. The doorway looks outside.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Long shot looking at the aisle leading to the glass doorway of the convenience store. The doorway looks outside.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Unknown Girl is lighting a cigarette under the awning just outside the doorway of the convenience store. It’s raining again.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>INT. CONVENIENCE STORE - CASHIER COUNTER</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium shot of cashier counter.</Text>
+      <Text>Through the glass door, Erik is able to see Unknown Girl is lighting a cigarette under the awning just outside the doorway of the convenience store. It’s raining again.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium shot of cashier counter.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik steps back to his left in front of the cashier counter.</Text>
@@ -3265,8 +3292,11 @@
     <Paragraph Type='Dialogue'>
       <Text>Cigarettes! Can I have a pack of cigarettes?</Text>
     </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>STORE CLERK What kind?</Text>
+    <Paragraph Type='Character'>
+      <Text>STORE CLERK</Text>
+    </Paragraph>
+    <Paragraph Type='Dialogue'>
+      <Text>What kind?</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
@@ -3286,8 +3316,11 @@
     <Paragraph Type='Dialogue'>
       <Text>Regular, filtered I guess.</Text>
     </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>STORE CLERK What brand?</Text>
+    <Paragraph Type='Character'>
+      <Text>STORE CLERK</Text>
+    </Paragraph>
+    <Paragraph Type='Dialogue'>
+      <Text>What brand?</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
@@ -3347,15 +3380,15 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>EXT. CONVENIENCE STORE - DOORWAY</Text>
+      <Text>EXT. CONVENIENCE STORE - IN FRONT OF DOORWAY - 1</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music: NINE INCH NAILS - THE SLIP - CORONA RADIATA]]</Text>
         </Paragraph>
+        <Paragraph>
+          <Text>[[Handheld shot behind Erik as we walks out of the convenience store. The sound of the pouring rain can be heard.]]</Text>
+        </Paragraph>
       </ScriptNote>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Handheld shot behind Erik as we walks out of the convenience store. The sound of the pouring rain can be heard.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Unknown Girl’s back is to Erik. Unknown Girl is smoking a cigarette, watching the rain from under the awning.</Text>
@@ -3374,9 +3407,14 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Unknown Girl turns around. Unknown Girl is not Jessica from Erik’s class. Unknown Girl reaches into her pocket and holds a lighter in front of her.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Handheld camera pivots around behind Unknown Girl to show Erik’s face.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Handheld camera pivots around behind Unknown Girl to show Erik’s face. Erik stares at Unknown Girl with surprise, confusion and defeat. Erik opens his mouth to say something. Erik is too confused to decide what to say.</Text>
+      <Text>Erik stares at Unknown Girl with surprise, confusion and defeat. Erik opens his mouth to say something. Erik is too confused to decide what to say.</Text>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>UNKNOWN GIRL</Text>
@@ -3386,15 +3424,11 @@
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Unknown Girl motions again by moving her lighter hand closer to Erik. Erik snaps out of his current state. Erik takes the lighter and lights the cigarette. Erik takes a large puff of smoke and coughs.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>EXT. CONVENIENCE STORE - DOORWAY</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium handheld shot of Erik and Unknown Girl. Erik is on the left, Unknown Girl is on the right. Very, very slowly, the camera is zooming in as the two get closer together through the course of the conversation.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium handheld shot of Erik and Unknown Girl. Erik is on the left, Unknown Girl is on the right. Very, very slowly, the camera is zooming in as the two get closer together through the course of the conversation.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>UNKNOWN GIRL</Text>
@@ -3533,9 +3567,11 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>The rare kind.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Handheld camera moves to focus on Erik.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Handheld camera moves to focus on Erik.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
@@ -3545,9 +3581,11 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>I don’t know. I really don’t know anything about art. And I need to find a job this summer. If I don’t, my...</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Handheld camera moves to focus on Unknown Girl.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Handheld camera moves to focus on Unknown Girl.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>UNKNOWN GIRL</Text>
@@ -3557,15 +3595,11 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>I’ll pay you $20 for an hour of your help.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>EXT. CONVENIENCE STORE - DOORWAY</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium handheld shot of Erik and Unknown Girl at previous zoom before camera moved side-to-side. Very, very slowly, the camera continues zooming in.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium handheld shot of Erik and Unknown Girl at previous zoom before camera moved side-to-side. Very, very slowly, the camera continues zooming in.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
@@ -3578,18 +3612,22 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>$25, for one hour.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Handheld camera moves to focus on Erik.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Handheld camera moves to focus on Erik.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Look, you can’t get much done in an hour. It would probably take a few days to get your site up and running if you are selling artwork on it. Honestly, there are website builders all over the internet that are pretty cheap and easy to use.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Handheld camera moves to focus on Unknown Girl.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Handheld camera moves to focus on Unknown Girl.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>UNKNOWN GIRL</Text>
@@ -3599,18 +3637,22 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>I tried those. They aren’t going to work for me.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Handheld camera moves to focus on Erik.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Handheld camera moves to focus on Erik.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>OK, well if you don’t use one of those, then you’ll need someone to build the site. Then you have to think about hosting, some type of payment account, and you need to figure out things like shipping costs...</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Handheld camera moves to focus on Unknown Girl.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Handheld camera moves to focus on Unknown Girl.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>UNKNOWN GIRL</Text>
@@ -3620,33 +3662,33 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>$30, for one hour of your time to help me understand all the stuff I need to do. Final offer. $30 just to say what you just said, write it down on a list and help me find out how I can do it.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Handheld camera moves to focus on Erik.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Handheld camera moves to focus on Erik.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Alright. When and where do you want to do this?</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Handheld camera moves to focus on Unknown Girl.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Handheld camera moves to focus on Unknown Girl.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>UNKNOWN GIRL</Text>
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Right now, at my apartment. C’mon, follow me.</Text>
-    </Paragraph>
-    <Paragraph Type='Transition'>
-      <Text>CUT TO:</Text>
-    </Paragraph>
-    <Paragraph Type='Scene Heading'>
-      <Text>EXT. CONVENIENCE STORE - DOORWAY</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Medium handheld shot of Erik and Unknown Girl at previous zoom before camera moved side-to-side. Very, very slowly, the camera continues zooming in.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut To: Medium handheld shot of Erik and Unknown Girl at previous zoom before camera moved side-to-side. Very, very slowly, the camera continues zooming in.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Unknown Girl motions to Erik to follow her. Erik walks closer. Unknown Girl turns to leave, but then stops with Erik very close to her.</Text>
@@ -3689,9 +3731,11 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>No, not at all. I’m just trying to figure out what the hell, you’re talking about.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Handheld camera moves to focus on Unknown Girl.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Handheld camera moves to focus on Unknown Girl.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>UNKNOWN GIRL</Text>
@@ -3701,9 +3745,11 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Some people would say my artwork is erotic.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Handheld camera moves to focus on Erik.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Handheld camera moves to focus on Erik.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
@@ -3713,12 +3759,22 @@
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>Like, porn?</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Handheld camera moves to focus on Unknown Girl.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Handheld camera moves to focus on Unknown Girl. Unknown Girl has a seductive, devious smile on her face. Unknown Girl’s look neither confirms, nor denies Erik’s question. However, the look that she gives indicates that the answer to Erik’s question is yes.</Text>
+      <Text>Unknown Girl has a seductive, devious smile on her face. Unknown Girl’s look neither confirms, nor denies Erik’s question. However, the look that she gives indicates that the answer to Erik’s question is yes.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Handheld camera moves to focus on a close up of Erik’s face.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Handheld camera moves to focus on a close up of Erik’s face. Erik looks panicked and excited.</Text>
+      <Text>Erik looks panicked and excited.</Text>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>DISSOLVE TO:</Text>
@@ -3771,19 +3827,23 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>EXT. CONVENIENCE STORE - DOORWAY</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Close up of Erik’s eyes.</Text>
+      <Text>EXT. CONVENIENCE STORE - IN FRONT OF DOORWAY - 2</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Close up of Erik’s eyes.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Character'>
       <Text>ERIK</Text>
     </Paragraph>
     <Paragraph Type='Dialogue'>
       <Text>(thinking) Holy shit!</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>Cut to black.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Cut to black.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>CUT TO:</Text>
@@ -3814,19 +3874,29 @@
       </ScriptNote>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>60 CREDIT SCREEN SPLIT: EXT. CONVENIENCE STORE - DOORWAY</Text>
+      <Text>60 CREDIT SCREEN SPLIT: EXT. CONVENIENCE STORE - IN FRONT OF DOORWAY - 3</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Medium shot.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot. Erik is smiling. Unknown Girl steps backward, motions to Erik to follow her. Erik watches as she turns around. Then, Erik begins to follow Unknown Girl. Runs quicker to catch up.</Text>
+      <Text>Erik is smiling. Unknown Girl steps backward, motions to Erik to follow her. Erik watches as she turns around. Then, Erik begins to follow Unknown Girl. Runs quicker to catch up.</Text>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
       <Text>60 CREDIT SCREEN SPLIT: EXT. SIDEWALK</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Medium shot.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot. Erik and Unknown Girl are talking, laughing and smiling as they walk together. Unknown Girl holds both hands up as fists with holes in the middle. Unknown Girl pumps twice with both hands and waves them over her face and chest. Unknown Girl keeps walking.</Text>
+      <Text>Erik and Unknown Girl are talking, laughing and smiling as they walk together. Unknown Girl holds both hands up as fists with holes in the middle. Unknown Girl pumps twice with both hands and waves them over her face and chest. Unknown Girl keeps walking.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Erik stops with his eyes wide open. Erik says &quot;Whoa&quot;. Erik runs to catch up with Unknown Girl again who is laughing.</Text>
@@ -3836,9 +3906,14 @@
     </Paragraph>
     <Paragraph Type='Scene Heading'>
       <Text>60 CREDIT SCREEN SPLIT: EXT. APARTMENT BUILDING - OUTSIDE APARTMENT DOOR</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[Medium shot.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Medium shot. Erik and Unknown Girl walk to the front of an apartment building. The sign in front of the building says: Antao Del Iuta Villas.</Text>
+      <Text>Erik and Unknown Girl walk to the front of an apartment building. The sign in front of the building says: Antao Del Iuta Villas.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Unknown Girl unlocks the door and walks inside. Erik stands outside looking at the door. Unknown Girl holds out one hand with a finger in a &quot;come here&quot; motion.</Text>
@@ -3847,10 +3922,12 @@
       <Text>Erik slowly walks in the door. Unknown Girl slowly closes the door.</Text>
     </Paragraph>
     <Paragraph Type='Action'>
-      <Text>Unknown Girl looks at the camera while the door is closing. Unknown Girls gives the camera a wink and a smile. Unknown Girl quickly shuts the door.</Text>
-    </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>The middle of the door is in focus of the shot as camera pans out into a long shot.</Text>
+      <Text>Unknown Girl looks at the camera while the door is closing. Unknown Girl gives the camera a wink and a smile. Unknown Girl quickly shuts the door.</Text>
+      <ScriptNote ID='1'>
+        <Paragraph>
+          <Text>[[The middle of the door is in focus of the shot as camera pans out into a long shot.]]</Text>
+        </Paragraph>
+      </ScriptNote>
     </Paragraph>
     <Paragraph Type='Transition'>
       <Text>Fade to black:</Text>
@@ -4097,7 +4174,7 @@
         <Text/>
       </Paragraph>
       <Paragraph Alignment='Center'>
-        <Text>Carmine Slate Based on the book &quot;Kicked Around&quot; by Carmine Slate Version 1.02 Date: 2018-12-31 License: CC BY-NC-SA 3.0</Text>
+        <Text>Carmine Slate Based on the book &quot;Kicked Around&quot; by Carmine Slate Version 1.03 Date: 2019-01-21 License: CC BY-NC-SA 3.0</Text>
       </Paragraph>
     </Content>
   </TitlePage>
