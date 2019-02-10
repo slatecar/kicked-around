@@ -1016,7 +1016,7 @@
       <Text>DISSOLVE TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING</Text>
+      <Text>INT. ERIK’S BEDROOM - MORNING - 1</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Sound: EAR RINGING FADE-IN]]</Text>
@@ -1099,7 +1099,7 @@
       <Text>DISSOLVE TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK’S BEDROOM - MORNING</Text>
+      <Text>INT. ERIK’S BEDROOM - MORNING - 2</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music: NINE INCH NAILS: THE SLIP: DEMON SEED]]</Text>
@@ -1524,8 +1524,8 @@
     <Paragraph Type='Action'>
       <Text></Text>
     </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>INT. ERIK&apos;S DORM ROOM</Text>
+    <Paragraph Type='Scene Heading'>
+      <Text>INT. ERIK&apos;S DORM ROOM - 1</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Medium shot. Erik and Erik&apos;s Mom are bringing boxes into Erik&apos;s dorm room. Erik and Erik&apos;s Mom set the boxes on the floor. They open the boxes and pull out Erik&apos;s folded clothes.</Text>
@@ -1570,7 +1570,7 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK&apos;S DORM ROOM</Text>
+      <Text>INT. ERIK&apos;S DORM ROOM - 2</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Medium shot. Erik closes the door. Erik checks the lock and tries to open the door 3 times.</Text>
@@ -1599,8 +1599,8 @@
     <Paragraph Type='Action'>
       <Text></Text>
     </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>INT. ERIK&apos;S DORM ROOM</Text>
+    <Paragraph Type='Scene Heading'>
+      <Text>INT. ERIK&apos;S DORM ROOM - 3</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Medium shot. Erik checks the lock once more.</Text>
@@ -1621,7 +1621,7 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. ERIK&apos;S DORM ROOM - NIGHT TIME</Text>
+      <Text>INT. ERIK&apos;S DORM ROOM - NIGHT - 1</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Medium shot. Erik is sitting at his desk naked, masturbating to pornography on his laptop. Erik keeps looking at the door, worried that it will open.</Text>
@@ -1644,8 +1644,8 @@
     <Paragraph Type='Action'>
       <Text></Text>
     </Paragraph>
-    <Paragraph Type='Action'>
-      <Text>INT. ERIK&apos;S DORM ROOM - NIGHT TIME</Text>
+    <Paragraph Type='Scene Heading'>
+      <Text>INT. ERIK&apos;S DORM ROOM - NIGHT - 2</Text>
     </Paragraph>
     <Paragraph Type='Action'>
       <Text>Medium shot. Erik is naked. Erik gets into bed, puts on the sheet and falls asleep.</Text>
@@ -1665,7 +1665,7 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. COLLEGE BUS - MORNING</Text>
+      <Text>INT. COLLEGE BUS - MORNING - 1</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music: NINE INCH NAILS: GHOSTS III : TRACK 21]]</Text>
@@ -1769,7 +1769,7 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. COLLEGE BUS - MORNING</Text>
+      <Text>INT. COLLEGE BUS - MORNING - 2</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music volume resumes to previous level.]]</Text>
@@ -2336,7 +2336,7 @@
       <Text>FADE TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM - 3</Text>
+      <Text>INT. SCHOOL BUILDING CLASSROOM - 4</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Music: NINE INCH NAILS - GHOSTS II TRACK 18]]</Text>
@@ -2597,7 +2597,7 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type='Scene Heading'>
-      <Text>INT. SCHOOL BUILDING CLASSROOM - 4</Text>
+      <Text>INT. SCHOOL BUILDING CLASSROOM - 5</Text>
       <ScriptNote ID='1'>
         <Paragraph>
           <Text>[[Cut To: Close up of Erik daydreaming.]]</Text>
@@ -4174,7 +4174,7 @@
         <Text/>
       </Paragraph>
       <Paragraph Alignment='Center'>
-        <Text>Carmine Slate Based on the book &quot;Kicked Around&quot; by Carmine Slate Version 1.03 Date: 2019-01-21 License: CC BY-NC-SA 3.0</Text>
+        <Text>Carmine Slate Based on the book &quot;Kicked Around&quot; by Carmine Slate Version 1.04 Date: 2019-02-10 License: CC BY-NC-SA 3.0</Text>
       </Paragraph>
     </Content>
   </TitlePage>
